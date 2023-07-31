@@ -1,2 +1,2 @@
 # HackerRank_Solutions
-Solutions For Hacker Rank Questions Python
+Solutions For Hacker Rank Questions 
